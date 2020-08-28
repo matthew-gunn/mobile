@@ -1,6 +1,7 @@
 /*Head, doc, and Meta Styles*/
 html{
 	font-family:arial,sans-serif;
+	font-size:4vw;
 }
 body{
 	margin:0px;
@@ -95,8 +96,6 @@ width:92%;
 background-color:white;
 border-radius:30px;
 z-index:0;
-
-height:1000px;
 }
 
 
