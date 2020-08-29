@@ -3,14 +3,14 @@ html{
 	font-family:arial,sans-serif;
 	font-size:2.25vh;
 }
-body{
+#bodytag{
 	margin:0px;
 	background-color:lightgrey;
 }
 
 
 /*Header Styles*/
-header{
+#headertag{
 	border-bottom:5px solid #5e8c61;
 	width:100%;
 	position:fixed;
@@ -108,6 +108,7 @@ width:92%;
 background-color:white;
 border-radius:30px;
 z-index:0;
+color:black;
 }
 
 
@@ -119,7 +120,7 @@ z-index:0;
 	width:100%;
 }
 
-footer{
+#footertag{
 	width:100%;
 	background-color:#293a7a;
 	height:10vh;
