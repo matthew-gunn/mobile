@@ -28,4 +28,4 @@ function darkmode(){
 }
 
 
-//things to target to change:
+//things to target to change: bodytag, headertag, #maintitle, .button, #main, footertag
