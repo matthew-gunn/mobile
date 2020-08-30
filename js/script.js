@@ -16,7 +16,7 @@ function darkmode(){
 		document.getElementById("headertag").style.backgroundColor = "black";
 		document.getElementById("footertag").style.backgroundColor = "black";		
 		document.getElementById("headertag").style.borderColor = "#7b0f1a";	
-		document.getElementById("bodytag").style.backgroundColor = "grey";			
+		document.getElementById("bodytag").style.backgroundColor = "#16161d";			
 		document.getElementById("main").style.backgroundColor = "#00000f";
 		document.getElementById("main").style.color = "white";
 		document.getElementById("maintitle").style.color = "#7b0f1a";
@@ -53,4 +53,4 @@ function darkmode(){
 }
 
 
-//things to target to change: bodytag, headertag, #maintitle, .button, #main, footertag
+// make 4 cookies: consent, mobile, darkmode, dakmode_session
