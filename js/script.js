@@ -70,7 +70,7 @@ function checkchange(){
 		document.getElementById("headertag").style.backgroundColor = "black";
 		document.getElementById("footertag").style.backgroundColor = "black";		
 		document.getElementById("headertag").style.borderColor = "#7b0f1a";	
-		document.getElementById("bodytag").style.backgroundColor = "#16161d";			
+		document.getElementById("bodytag").style.backgroundColor = "#383838";			
 		document.getElementById("main").style.backgroundColor = "#00000f";
 		document.getElementById("main").style.color = "white";
 		document.getElementById("maintitle").style.color = "#7b0f1a";
