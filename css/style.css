@@ -135,13 +135,57 @@ color:black;
 
 
 
+/*modal popup*/
+#consent-modal-outer{
+	position:fixed;
+	background-color:rgba(.1,.1,.1,.6);
+	height:100%;
+	width:100%;
+	top:0px;
+	
+}
+#consent-modal{
+	position:fixed;
+	height:70vh;
+	width:80vw;
+	bottom:15vh;
+	left:10vw;
+	background-color:#293a7a;
+	text-align:center;
+	border-radius:45px;
+	
+}
+#modaltitle{
+	
+	margin-top:40px;
+	margin-bottom:40px;
+	color:#5e8c61;
+	
+}
+#modaltext{
+	color:white;
+}
 
-
-
-
-
-
-
-
-
+#consent-yes{
+	margin:10px;
+	padding:2vh;
+	background-color:#5e8c61;
+	height:3vh;
+	border-radius:20px;
+	color:white;
+	cursor:pointer;
+	
+}
+#consent-no{
+	
+	margin:10px;
+	padding:2vh;
+	border-radius:20px;
+	background-color:#5e8c61;
+	height:3vh;
+	color:white;
+	cursor:pointer;
+	font-size:2.15vh;
+	
+}
 
