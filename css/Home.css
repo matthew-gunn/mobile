@@ -3,7 +3,7 @@
 #featured{
 
 	margin:1%;
-	margin-top:0%;
+
 	padding:3%;
 
 	background-color:white;
@@ -12,6 +12,9 @@
 	position:relative;
 	height:auto;
 	z-index:-1;
+	display:block;
+	float:right;
+	
 }
 #featuredtitle{
 	color:#5e8c61;
