@@ -1,0 +1,53 @@
+
+
+#maintitle{
+	color:#5e8c61;
+}
+#featured{
+
+margin:1%;
+margin-top:0%;
+padding:3%;
+
+background-color:white;
+border-radius:30px;
+
+position:relative;
+	
+}
+#featuredtitle{
+	color:#5e8c61;
+	text-align:center;
+}
+
+#featureddiv{
+	display:flex;
+	border-radius:27px;
+	background-color:lightgrey;
+	border:2px solid white;
+}
+#featureddiv:hover, #featureddiv:active{
+	border:2px solid #faa916;
+	
+	
+}
+#featuredimage{
+	height:auto;
+	width:60%;
+	object-fit:cover;
+	position:relative;
+	border-radius: 25px 0 0 25px;
+	display:block;
+	float:left;
+}
+#featureddisc{
+	width:40%;
+	position:relative;
+	float:left;
+	display:block;
+	font-size:18px;
+	padding:1.5%;
+	text-decoration:none;
+	
+	
+}
