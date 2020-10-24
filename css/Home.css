@@ -11,6 +11,7 @@
 
 	position:relative;
 	height:auto;
+	z-index:-1;
 }
 #featuredtitle{
 	color:#5e8c61;
