@@ -1,4 +1,10 @@
 .LI-profile-badge{
-	float:right;
-	
+	width:90%;
+	margin:auto;
+	display:inline;
+	text-align:left;
+}
+.LI-simple-link{
+	width:90%;
+	margin:auto;
 }
