@@ -6,8 +6,7 @@ p{
 
 .listed{
 	height:150px;
-	width:49%;
-	border:0.5% solid grey;
+	width:100%;
 	display:inline-block;
 	text-align:right;
 	position:relative;
@@ -15,26 +14,18 @@ p{
 	
 	
 }
-.bargraphicleft{
+.bargraphic{
 
 	height:100%;
 	width:100%;
 	object-fit:cover;
 	z-index:1;
-	border-radius: 25px 0 0 25px;
+	border-radius: 25px;
+	background-color:red;
 	
 	
 }
-.bargraphicright{
 
-	height:100%;
-	width:100%;
-	object-fit:cover;
-	z-index:1;
-	border-radius: 0 25px 25px 0;
-	
-	
-}
 
 .listedtext{
 
