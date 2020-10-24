@@ -2,6 +2,8 @@
 html{
 	font-family:arial,sans-serif;
 	font-size:2.25vh;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
 }
 #bodytag{
 	margin:0px;
