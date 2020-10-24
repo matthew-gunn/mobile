@@ -67,15 +67,15 @@ function checkchange(){
 		
 		//document.getElementById("demo").style.color = "red"; via w3schools
 		
-		document.getElementById("headertag").style.backgroundColor = "black";
-		document.getElementById("footertag").style.backgroundColor = "black";		
+		document.getElementById("headertag").style.backgroundColor = "#202020";
+		document.getElementById("footertag").style.backgroundColor = "#202020";		
 		document.getElementById("headertag").style.borderColor = "#7b0f1a";	
-		document.getElementById("bodytag").style.backgroundColor = "#383838";			
-		document.getElementById("main").style.backgroundColor = "#00000f";
+		document.getElementById("bodytag").style.backgroundColor = "black";			
+		document.getElementById("main").style.backgroundColor = "#202020";
 		document.getElementById("main").style.color = "white";
 		document.getElementById("maintitle").style.color = "#7b0f1a";
 		
-		document.getElementById("consent-modal").style.backgroundColor = "black";
+		document.getElementById("consent-modal").style.backgroundColor = "#202020";
 		document.getElementById("modaltitle").style.color = "#7b0f1a";
 		document.getElementById("consent-modal-outer").style.backgroundColor = "rgba(255,255,255,.4)";
 		
@@ -102,7 +102,7 @@ function checkchange(){
 		var x = document.getElementsByClassName("button");
 		var i;
 		for (i = 0; i < x.length; i++) {
-			x[i].style.backgroundColor = "black";
+			x[i].style.backgroundColor = "#202020";
 		}
 		
 		
