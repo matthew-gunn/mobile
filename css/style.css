@@ -58,7 +58,7 @@ margin-top:12vh;
 /*sidebar styles*/
 
 .button{
-	background-color:#000034;  /*000034,5e8c61*/
+	background-color:#293a7a;  /*000034,5e8c61*/
 	padding-top:4%;
 	padding-bottom:4%;
 	border:1px solid grey;
@@ -154,6 +154,7 @@ color:black;
 	bottom:0;
 	color:white;
 	text-align:center;
+	font-size: 5vh;
 }
 
 
@@ -184,7 +185,7 @@ color:black;
 	
 	margin-top:40px;
 	margin-bottom:40px;
-	color:#5e8c61;
+	color:white;
 	
 }
 #modaltext{
@@ -210,7 +211,7 @@ color:black;
 	height:3vh;
 	color:white;
 	cursor:pointer;
-	font-size:2.15vh;
+	/*font-size:2.15vh;*/
 	
 }
 
